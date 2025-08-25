@@ -45,7 +45,7 @@
             <td> 80 </td>
         </tr>
         <tr>
-            <td> SEM 1 BTech</td>
+            <td> Year 1 BTech</td>
             <td> PCU</td>
             <td> 8.9</td>
         </tr>
@@ -55,11 +55,12 @@
             <li> C </li>
             <li> C++ </li>
             <li> HTML </li>
+            <li> Python </li>
         </ol>
         <ul type="square">
             <li> CSS </li>
             <li> Javascript</li>
-            <li> Bootstarap </li>
+            <li> Bootstrap </li>
         </ul>
         <a href="https://github.com/dashboard"> github</a>
         
